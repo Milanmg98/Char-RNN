@@ -12,4 +12,10 @@ To get your Facebook messages all you have to do is to go to the  “Download yo
 Facebook will take a few hours to verify your download, after the verification process you can easily download all your messages history data to date which is quite amusing.
 
 
+# There are few things that you need to take care if you are training on your own dataset please visit it here =>
+
+1
+
+
+
 
